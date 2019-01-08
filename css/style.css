@@ -39,7 +39,7 @@ h2, h3 {
   color: #92AFA7;
 }
 
-img {
+.content img {
   padding: 35px;
   border: 10px #92AFA7 ;
   float: left;
