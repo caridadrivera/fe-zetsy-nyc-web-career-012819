@@ -59,7 +59,9 @@ img {
   padding: 5px;
   margin: 5px;
 }
-
+.content{
+  width: 100%;
+}
 /* Clearfix (clear floats) */
 .content::after {
   content: ".";
