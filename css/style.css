@@ -59,7 +59,7 @@ img {
 }
 
 /* Clearfix (clear floats) */
-.row::after {
+.press-::after {
   content: "";
   clear: both;
   display: table;
