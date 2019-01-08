@@ -47,7 +47,7 @@ img {
 /* content*/
 
 
-.column {
+.wrapper .column {
   float: left;
  width: 33.33%;
 }
