@@ -48,6 +48,6 @@ img {
 
 
 .wrapper .content .column {
- display: inline;
+ width: 100%;
 }
 
