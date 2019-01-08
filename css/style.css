@@ -61,7 +61,11 @@ img {
 }
 
 /* Clearfix (clear floats) */
-
+.content::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 
 
