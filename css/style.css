@@ -1,6 +1,6 @@
-/*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700');
+
 
 /*////////// Global Styles //////////*/
 
@@ -17,4 +17,22 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+.wrapper .content{
+  border: 10px;
+  width: 80%;
+}
+
+
+/* Headings*/
+
+
+h1 {
+  font-weight: 400;
+  font-family: 'Baskerville';
+  color: ;
+
+}
+
+img {
+  padding: 40px;
+}
