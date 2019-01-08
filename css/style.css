@@ -46,7 +46,7 @@ img {
 /* content*/
 
 
-.column{
+..column {
  float: left;
 }
 
