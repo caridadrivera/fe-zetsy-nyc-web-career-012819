@@ -47,6 +47,6 @@ img {
 
 
 .press-row {
-  display: inline;
+  display: inline-block;
 }
 
