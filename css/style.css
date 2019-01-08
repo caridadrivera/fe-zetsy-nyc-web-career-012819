@@ -46,7 +46,7 @@ img {
 /* content*/
 
 
-.press img {
+.press img a {
   display: inline;
 }
 
