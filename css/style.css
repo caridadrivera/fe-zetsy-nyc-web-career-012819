@@ -52,6 +52,9 @@ img {
 
 
 /* content*/
+.content {
+  width: 100%;
+}
 
 .column {
   float: left;
