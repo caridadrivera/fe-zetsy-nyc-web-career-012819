@@ -65,6 +65,7 @@ img {
 
 /* Clearfix (clear floats) */
 .content::after {
+  float: left;
   content: ".";
   clear: both;
   display: table;
