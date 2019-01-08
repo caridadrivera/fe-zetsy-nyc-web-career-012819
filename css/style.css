@@ -61,7 +61,7 @@ img {
 }
 
 /* Clearfix (clear floats) */
-.content::after {
+.column::after {
   content: "";
   clear: both;
   display: block;
