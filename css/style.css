@@ -47,7 +47,7 @@ img {
 /* content*/
 
 
-.column {
+.wrapper .content .column {
  float: left;
 }
 
