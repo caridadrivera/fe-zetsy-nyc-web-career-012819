@@ -50,5 +50,6 @@ img {
 .content .column {
   float: left;
  width: 100%;
+ display: block;
 }
 
