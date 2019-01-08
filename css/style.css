@@ -63,8 +63,10 @@ img {
   margin: 5px;
 }
 
+.column
+
 /* Clearfix (clear floats) */
-.content::after {
+.content:after {
   content: ".";
   clear: both;
   display: table;
