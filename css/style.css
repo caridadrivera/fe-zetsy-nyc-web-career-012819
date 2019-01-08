@@ -48,11 +48,8 @@ img {
 
 
 .content .column {
+float: left;
  width: 100%;
 }
 
-.column a {
-  width:100%;
-  float: left;
-}
 
