@@ -28,9 +28,13 @@ body {
 
 h1, h2, h3 {
   padding-top: 30px;
-  font-family: 'Baskerville', 'serif';
+  font-family: 'Baskerville';
   color: #92AFA7;
 
+}
+
+h2, h3 {
+  font-family: 'serif';
 }
 
 img {
