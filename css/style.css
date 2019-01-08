@@ -47,6 +47,6 @@ img {
 
 
 .press-row .column{
-  display: inline ;
+ float: left;
 }
 
