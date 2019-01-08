@@ -48,5 +48,7 @@ img {
 
 .Press-row .column {
  float: left;
+ width: 35%;
+ padding: 5px;
 }
 
