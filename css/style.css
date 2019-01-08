@@ -63,7 +63,7 @@ img {
   margin: 5px;
 }
 
-.column::last {
+.column:last {
   float: left;
   
 }
