@@ -48,11 +48,10 @@ img {
 
 
 .content .column {
- float: left;
  width: 100%;
 }
 
 .column a {
-  display: block;
+  float: left;
 }
 
