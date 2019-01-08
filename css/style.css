@@ -63,7 +63,7 @@ img {
   margin: 5px;
 }
 
-.column
+.column:
 
 /* Clearfix (clear floats) */
 .content:after {
